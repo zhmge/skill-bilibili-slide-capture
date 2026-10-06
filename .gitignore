@@ -1,0 +1,19 @@
+# ── 运行时产物：属于用户工作区，不入库 ──
+videos/
+snaps/
+links.json
+candidates.json
+choices.json
+contact_*.jpg
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
